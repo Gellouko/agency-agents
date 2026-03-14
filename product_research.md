@@ -364,6 +364,94 @@ Cada produto foi avaliado em 5 dimensões (escala 1-10):
 
 ---
 
+---
+
+## ANÁLISE ESTRATÉGICA: POTENCIAL DE 9 DÍGITOS (R$ 100M+)
+
+> Foco nos 3 produtos com maior combinação de **Alta Viralização + Baixa Concorrência no Brasil**
+
+---
+
+### TRIO CAMPEÃO: Os 3 Produtos com Maior Potencial de Escala
+
+| Produto | Score V+L | TAM Global | CAGR | Vantagem BR |
+|---------|-----------|------------|------|-------------|
+| **Glutationa Lipossomal** | 18/20 | US$1.9B | 7.4% | Zero marca dominante |
+| **Berberina + Cromo** | 17/20 | US$897M | 8.6% | Zero penetração BR |
+| **Ashwagandha Gummies** | 17/20 | US$837M | 9.2% | BR = 40% da LatAm |
+
+---
+
+### MODELO DE ESCALA: COMO CHEGAR A R$ 100M+
+
+A lógica de escala para 9 dígitos via TikTok/Instagram no Brasil segue o padrão observado em marcas como **Gummy Hair** (projetada em R$300M), **Puravida** (IPO bilionário) e **Vitat**:
+
+```
+Fase 1 (0-12 meses): Validação
+└── Meta: R$ 500K-2M/mês
+└── Canal: TikTok Orgânico + UGC + micro-influencers (10K-100K seguidores)
+└── Produto: 1 SKU hero. Sem expansão prematura.
+└── Investimento: R$ 200K-500K (produção + estoque + conteúdo)
+
+Fase 2 (12-24 meses): Aceleração
+└── Meta: R$ 5M-15M/mês
+└── Canal: TikTok Ads + Meta + TikTok Shop BR (quando disponível)
+└── Produto: 2-3 SKUs. Bundle + assinatura recorrente.
+└── Investimento: Reinvestimento de 30-40% da receita em tráfego pago
+
+Fase 3 (24-48 meses): Escala
+└── Meta: R$ 30M-100M+/mês
+└── Canal: Full-funnel (digital + PDV físico seletivo)
+└── Produto: Portfólio completo. Extensão de linha. Co-branding.
+└── Investimento: Rodada Series A ou crescimento orgânico sustentado
+```
+
+---
+
+### POR QUE ESSES PRODUTOS CHEGAM A 9 DÍGITOS?
+
+**1. Glutationa Lipossomal**
+- Mercado global de suplementos de glutationa: **US$ 1.9B (2025) → US$ 3.9B (2035)**
+- O Brasil representa ~3-4% do TAM global de suplementos = **US$ 57M-76M em glutationa** ainda pouco explorados
+- Ticket de R$149-249 x recorrência mensal = LTV alto
+- Cenário: 50.000 clientes recorrentes × R$180/mês médio = **R$ 108M/ano**
+
+**2. Berberina + Cromo**
+- Vendas de berberina nos EUA cresceram **+110.6% em 52 semanas** (dados SPINS 2024)
+- Mercado global: **US$ 897M (2024) → US$ 2.05B (2034)**; CAGR de 8.6%
+- Brasil: zero marca dominante, zero penetração mainstream
+- O apelido "Ozempic da Natureza" é um gatilho viral auto-executável — qualquer vídeo com essa expressão pode viralizar sem custo
+- Cenário: 80.000 clientes recorrentes × R$120/mês = **R$ 115M/ano**
+
+**3. Ashwagandha Gummies (KSM-66)**
+- Mercado global de ashwagandha: **US$ 837M (2025) → US$ 1.86B (2034)**; CAGR de 9.3%
+- Gummies são o formato de mais rápido crescimento: **+12.8% CAGR**
+- **Brasil lidera a América Latina** com ~40% da demanda regional (US$ 44M/ano e crescendo)
+- Mercado de gummies de suplementos global chegará a **US$ 66.56B até 2033**
+- O driver emocional (ansiedade, estresse) é universal e recorrente
+- Cenário: 100.000 clientes recorrentes × R$130/mês = **R$ 156M/ano**
+
+---
+
+### RECOMENDAÇÃO ESTRATÉGICA FINAL
+
+Para construir uma marca de **R$ 100M+** com a menor resistência possível, a recomendação dos agentes especializados é:
+
+**Estratégia Preferencial: LANÇAR COM UM PRODUTO HERO E CONSTRUIR UMA PLATAFORMA DE WELLNESS**
+
+1. **Produto de entrada**: Ashwagandha Gummies KSM-66 — menor risco regulatório, maior facilidade de produção, apelo emocional universal, zero concorrência com branding moderno no Brasil
+2. **Segundo produto**: Glutationa Lipossomal — eleva o ticket médio, o posicionamento "beauty from within" e a percepção premium da marca
+3. **Terceiro produto**: Berberina + Cromo — captura o público de controle metabólico/emagrecimento, abrindo um segundo segmento de audiência
+
+Essa sequência cria uma plataforma de wellness com:
+- **3 audiências diferentes** (estresse/ansiedade + beleza + metabolismo)
+- **Recorrência mensal** garantida em todos os SKUs
+- **Posicionamento premium** mas acessível (R$ 89-249)
+- **Potencial de cross-sell** entre os segmentos
+- **Funil TikTok natural**: cada produto tem um criativo viral diferente, multiplicando canais de aquisição
+
+---
+
 ## FONTES
 
 ### TikTok Shop & Tendências Virais
